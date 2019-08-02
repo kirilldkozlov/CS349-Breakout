@@ -1,11 +1,9 @@
 # Breakout
-===============================================================================
-*Developed by:*
 Kirill Kozlov
 k2kozlov
 20612389
 Sep. 28, 2018
-===============================================================================
+
 ### Game Instructions:
 1. Choose `[s]` or `[i]` to start the game.
   - `[i]` will launch iNsAnE mOdE where the ball speeds up with every hit to a max speed.
