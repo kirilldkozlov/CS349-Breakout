@@ -25,3 +25,6 @@ Sep. 28, 2018
 
 ### Reccomended 
 `./breakout 30 6`
+
+### Preview
+![Screenshot](BreakoutScreenshot.png)
